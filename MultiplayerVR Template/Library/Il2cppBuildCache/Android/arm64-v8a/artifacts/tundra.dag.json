@@ -1,0 +1,141 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [
+        1
+      ],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "Il2Cpp C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so",
+      "Action": "D:\\GameDev\\2020.3.15f2\\Editor\\Data\\il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --compile-cpp --libil2cpp-static --platform=\"Android\" --architecture=\"ARM64\" --configuration=\"Release\" --outputpath=\"C:\\Users\\nirya\\Desktop\\GameDevCoruseMaterial\\VR\\MultiplayerVR Template\\Library\\Il2cppBuildCache\\Android\\arm64-v8a\\Native\\arm64-v8a\\libil2cpp.so\" --cachedirectory=\"C:\\Users\\nirya\\Desktop\\GameDevCoruseMaterial\\VR\\MultiplayerVR Template\\Assets\\..\\Library\\il2cpp_android_arm64-v8a/il2cpp_cache\" --additional-include-directories=\"D:/GameDev/2020.3.15f2/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\bdwgc/include\" --additional-include-directories=\"D:/GameDev/2020.3.15f2/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\libil2cpp/include\" --baselib-directory=\"D:/GameDev/2020.3.15f2/Editor/Data/PlaybackEngines/AndroidPlayer\\Variations\\il2cpp\\Release\\StaticLibs\\arm64-v8a\" --avoid-dynamic-library-copy --tool-chain-path=\"D:/GameDev/2020.3.15f2/Editor/Data/PlaybackEngines/AndroidPlayer/NDK\" --incremental-g-c-time-slice=3 --profiler-report --map-file-parser=D:/GameDev/2020.3.15f2/Editor/Data/Tools/MapFileParser/MapFileParser.exe --directory=\"C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed\" --generatedcppdir=\"C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Library/Il2cppBuildCache/Android/arm64-v8a/il2cppOutput\"",
+      "Inputs": [
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/Assembly-CSharp.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/Mono.Security.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/mscorlib.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/Photon3Unity3D.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/PhotonChat.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/PhotonRealtime.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/PhotonUnityNetworking.Demos.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/PhotonUnityNetworking.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/PhotonUnityNetworking.Utilities.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/PhotonVoice.API.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/PhotonVoice.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/PhotonVoice.PUN.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/System.Configuration.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/System.Core.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/System.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/System.Numerics.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/System.Xml.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/Unity.InputSystem.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/Unity.TextMeshPro.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/Unity.XR.Interaction.Toolkit.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/Unity.XR.Management.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/Unity.XR.Oculus.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/Unity.XR.OpenXR.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/Unity.XR.OpenXR.Features.ConformanceAutomation.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/Unity.XR.OpenXR.Features.MockDriver.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/Unity.XR.OpenXR.Features.MockRuntime.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/Unity.XR.OpenXR.Features.OculusQuestSupport.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/Unity.XR.OpenXR.Features.RuntimeDebugger.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AnimationModule.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ARModule.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AudioModule.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.CoreModule.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.GridModule.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputModule.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.JSONSerializeModule.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ParticleSystemModule.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SpatialTracking.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SubsystemsModule.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TextCoreModule.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TilemapModule.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UI.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UIModule.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.VRModule.dll",
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.XRModule.dll"
+      ],
+      "Outputs": [
+        "C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [],
+      "OverwriteOutputs": false,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 1
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    },
+    {
+      "File": "artifacts/buildprogram/tundra_buildprogram.dag.json"
+    },
+    {
+      "File": "il2cpp_settings.json"
+    },
+    {
+      "File": "unitylinker_settings.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".txt",
+    ".c",
+    ".cpp",
+    ".h",
+    ".cs",
+    ".hpp"
+  ],
+  "StructuredLogFileName": "artifacts/tundra.log.json",
+  "StateFileName": "artifacts/TundraBuildState.state",
+  "StateFileNameTmp": "artifacts/TundraBuildState.state.tmp",
+  "ScanCacheFileName": "artifacts/tundra.scancache",
+  "ScanCacheFileNameTmp": "artifacts/tundra.scancache.tmp",
+  "DigestCacheFileName": "artifacts/tundra.digestcache",
+  "DigestCacheFileNameTmp": "artifacts/tundra.digestcache.tmp",
+        "NamedNodes": {
+          "all_tundra_nodes": 0
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "artifacts/tundra.dag.json",
+  "BuildTitle": "Bee",
+  "RelativePathToRoot": ".."
+}
