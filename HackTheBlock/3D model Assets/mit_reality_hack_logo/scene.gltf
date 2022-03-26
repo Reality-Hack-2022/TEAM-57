@@ -1,0 +1,781 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 560,
+      "max": [
+        37.74584197998047,
+        58.884307861328125,
+        1.0000001192092896
+      ],
+      "min": [
+        -54.40205001831055,
+        -61.12853240966797,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 6720,
+      "componentType": 5126,
+      "count": 560,
+      "max": [
+        0.9997392892837524,
+        0.998306393623352,
+        1.0
+      ],
+      "min": [
+        -0.9997391700744629,
+        -0.9983065128326416,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 3012,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 13440,
+      "componentType": 5126,
+      "count": 2632,
+      "max": [
+        185.7379913330078,
+        23.482234954833984,
+        2.1653671264648438
+      ],
+      "min": [
+        -18.14835548400879,
+        -8.93010139465332,
+        0.545362114906311
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 45024,
+      "componentType": 5126,
+      "count": 2632,
+      "max": [
+        0.9998000860214233,
+        0.9999991059303284,
+        0.9999914169311523
+      ],
+      "min": [
+        -0.9998002052307129,
+        -0.9999991059303284,
+        -0.9999914765357971
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12048,
+      "componentType": 5125,
+      "count": 15792,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 76608,
+      "componentType": 5126,
+      "count": 9912,
+      "max": [
+        185.7379913330078,
+        23.482234954833984,
+        2.1736626625061035
+      ],
+      "min": [
+        -18.14835548400879,
+        -46.759849548339844,
+        0.545362114906311
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 195552,
+      "componentType": 5126,
+      "count": 9912,
+      "max": [
+        1.0,
+        0.9999996423721313,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9999996423721313,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 75216,
+      "componentType": 5125,
+      "count": 59472,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 314496,
+      "componentType": 5126,
+      "count": 9912,
+      "max": [
+        185.7379913330078,
+        23.482234954833984,
+        2.1736626625061035
+      ],
+      "min": [
+        -18.14835548400879,
+        -46.759849548339844,
+        0.545362114906311
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 433440,
+      "componentType": 5126,
+      "count": 9912,
+      "max": [
+        1.0,
+        0.9999996423721313,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9999996423721313,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 313104,
+      "componentType": 5125,
+      "count": 59472,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 552384,
+      "componentType": 5126,
+      "count": 9912,
+      "max": [
+        185.7379913330078,
+        23.482234954833984,
+        2.1736626625061035
+      ],
+      "min": [
+        -18.14835548400879,
+        -46.759849548339844,
+        0.545362114906311
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 671328,
+      "componentType": 5126,
+      "count": 9912,
+      "max": [
+        1.0,
+        0.9999996423721313,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9999996423721313,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 550992,
+      "componentType": 5125,
+      "count": 59472,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 790272,
+      "componentType": 5126,
+      "count": 354,
+      "max": [
+        183.5325927734375,
+        22.585458755493164,
+        1.363662600517273
+      ],
+      "min": [
+        -16.112747192382813,
+        -45.89557647705078,
+        1.355362057685852
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 794520,
+      "componentType": 5126,
+      "count": 354,
+      "max": [
+        1.583527227921877e-05,
+        2.847857558663236e-06,
+        1.0
+      ],
+      "min": [
+        -4.556577096082037e-06,
+        -1.2324340787017718e-05,
+        1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 788880,
+      "componentType": 5125,
+      "count": 1002,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 798768,
+      "componentType": 5126,
+      "count": 7280,
+      "max": [
+        171.50575256347656,
+        2.965729236602783,
+        2.1736626625061035
+      ],
+      "min": [
+        -7.091602325439453,
+        -46.759849548339844,
+        0.5494903326034546
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 886128,
+      "componentType": 5126,
+      "count": 7280,
+      "max": [
+        1.0,
+        0.9999996423721313,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9999996423721313,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 792888,
+      "componentType": 5125,
+      "count": 43680,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "BryanChrisBrown (https://sketchfab.com/BryanChrisBrown)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/mit-reality-hack-logo-523868b8a12e44ad884d5cc59a29b446",
+      "title": "Mit Reality Hack Logo"
+    },
+    "generator": "Sketchfab-12.65.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 967608,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 973488,
+      "byteOffset": 967608,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1941096,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0.7728731837247401,
+        0.8278013097751015,
+        0.0
+      ],
+      "name": "03_-_Default",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          0.6068321564485184,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0.05124501550160645,
+        0.0005205073324589663,
+        0.11368841218696328
+      ],
+      "name": "Solid_Glass",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.23917455323250933,
+          0.07653456638757272,
+          0.527359772669052,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0.17783174169778665,
+        0.4663056336428674,
+        0.0639645301576761
+      ],
+      "name": "14_-_Polished_Aluminum",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.30877440963186137,
+          0.6529438608844284,
+          0.1430088552697008,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "02_-_Default",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.30134919515182684,
+          0.010175421596692734,
+          0.6296415476703775,
+          0.838030312278054
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1.0,
+        0.08966697232816803,
+        1.0
+      ],
+      "name": "Ceramic",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6928835254184011,
+          0.00572417489317478,
+          0.5543724800062202,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Line001_03 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "REALITY_Solid Glass_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "REALITY001_14 - Polished Aluminum_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "REALITY002_14 - Polished Aluminum_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "REALITY003_14 - Polished Aluminum_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12
+          },
+          "indices": 14,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "REALITY004_02 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15
+          },
+          "indices": 17,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "HACK_OUTLINE_Ceramic_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 19,
+            "POSITION": 18
+          },
+          "indices": 20,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "9ad97d3c13be4063b67b184986dba408.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.9999999999999867,
+        1.6292068494294582e-07,
+        0.0,
+        0.0,
+        -1.6292068494294582e-07,
+        0.9999999999999867,
+        0.0,
+        -45.531585693359375,
+        65.14192962646484,
+        2.1886742729293474e-07,
+        1.0
+      ],
+      "name": "Line001"
+    },
+    {
+      "mesh": 0,
+      "name": "Line001_03 - Default_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.9999999999999867,
+        1.6292068494294582e-07,
+        0.0,
+        0.0,
+        -1.6292068494294582e-07,
+        0.9999999999999867,
+        0.0,
+        -72.6895751953125,
+        90.27464294433594,
+        1.3174533251003595e-06,
+        1.0
+      ],
+      "name": "REALITY"
+    },
+    {
+      "mesh": 1,
+      "name": "REALITY_Solid Glass_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.9999999999999867,
+        1.6292068494294582e-07,
+        0.0,
+        0.0,
+        -1.6292068494294582e-07,
+        0.9999999999999867,
+        0.0,
+        -72.6895751953125,
+        90.27464294433594,
+        -10.687254905700684,
+        1.0
+      ],
+      "name": "REALITY001"
+    },
+    {
+      "mesh": 2,
+      "name": "REALITY001_14 - Polished Aluminum_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.9999999999999867,
+        1.6292068494294582e-07,
+        0.0,
+        0.0,
+        -1.6292068494294582e-07,
+        0.9999999999999867,
+        0.0,
+        -72.6895751953125,
+        90.27464294433594,
+        -21.034015655517578,
+        1.0
+      ],
+      "name": "REALITY002"
+    },
+    {
+      "mesh": 3,
+      "name": "REALITY002_14 - Polished Aluminum_0"
+    },
+    {
+      "children": [
+        12
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.9999999999999867,
+        1.6292068494294582e-07,
+        0.0,
+        0.0,
+        -1.6292068494294582e-07,
+        0.9999999999999867,
+        0.0,
+        -72.6895751953125,
+        90.27464294433594,
+        -16.071420669555664,
+        1.0
+      ],
+      "name": "REALITY003"
+    },
+    {
+      "mesh": 4,
+      "name": "REALITY003_14 - Polished Aluminum_0"
+    },
+    {
+      "children": [
+        14
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.9999999999999867,
+        1.6292068494294582e-07,
+        0.0,
+        0.0,
+        -1.6292068494294582e-07,
+        0.9999999999999867,
+        0.0,
+        -72.6895751953125,
+        90.27464294433594,
+        1.3174533251003595e-06,
+        1.0
+      ],
+      "name": "REALITY004"
+    },
+    {
+      "mesh": 5,
+      "name": "REALITY004_02 - Default_0"
+    },
+    {
+      "children": [
+        16
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.9999999999999867,
+        1.6292068494294582e-07,
+        0.0,
+        0.0,
+        -1.6292068494294582e-07,
+        0.9999999999999867,
+        0.0,
+        -72.6895751953125,
+        90.27464294433594,
+        1.3174533251003595e-06,
+        1.0
+      ],
+      "name": "HACK_OUTLINE"
+    },
+    {
+      "mesh": 6,
+      "name": "HACK_OUTLINE_Ceramic_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
