@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637838013506889793
+      ticks: 637839339964304016
     m_Hash: 3716703617
   m_LockFileStatus:
     m_FilePath: C:/Users/nirya/Desktop/GameDevCoruseMaterial/VR/MultiplayerVR Template/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637838013636616875
+      ticks: 637839339964341313
     m_Hash: 1299189342
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
